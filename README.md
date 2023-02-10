@@ -2,7 +2,7 @@
 
 <p>Pré-visualização</p>
 <img src="./.github/preview.gif" width='600px'>
-<p><a href=''>Deploy</a></p>
+<p><a href='https://fxneves.github.io/projeto_sidebar/'>Deploy</a></p>
 <p><a href='https://efficient-sloth-d85.notion.site/Desafio-Sidebar-f2251eb4976941eb958326ea327ffeb9'>Link do desafio</a></p>
 
 <h1>Sobre o Desafio</h1>
